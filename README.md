@@ -1,5 +1,4 @@
 <html>
-<head><title> Ryzen o Intel</title></head>
 
 <body background="FONDO.jpg" link="blue" alink="cyan" vlink="red">
 <font size=5 color="white">
