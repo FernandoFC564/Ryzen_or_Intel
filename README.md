@@ -1,5 +1,4 @@
 <html>
-git clone https://github.com/FernandoFC564/FernandoFC564.github.io
 <head><title> Ryzen o Intel</title></head>
 
 <body background="FONDO.jpg" link="blue" alink="cyan" vlink="red">
